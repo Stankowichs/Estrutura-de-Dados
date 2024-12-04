@@ -23,9 +23,9 @@ Implementação de calculadoras especializadas utilizando a estrutura de pilhas:
 ---
 
 ## 🔍 **Busca de Artigos**  
-Desenvolvimento de um sistema inteligente de busca para artigos acadêmicos.  
+Desenvolvimento de um sistema inteligente de busca para artigos acadêmicos dentro de alguns sites oferecidos no txt do projeto.  
 - Pesquisa por **palavras-chave** ou perguntas específicas.  
-- Retorna resultados relevantes, organizados de forma clara e objetiva.  
+- Retorna resultados relevantes, com link, título e autores dos artigos.  
 
 ---
 
